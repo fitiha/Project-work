@@ -45,23 +45,23 @@ int main(){
 		totalSale = infantSale + childSale + teenageSale + adultSale;
 		cout<<"\n************************************\n";
 		cout<<"TOTAL INFANT ATEENDEES = "<<infant;
-		cout<<"\n \t CATEGORY CODE = 1";
-		cout<<"\n \t TOTAL SALE FROM INFANTS = "<<infantSale;
+		cout<<"\n  CATEGORY CODE = 1";
+		cout<<"\n  TOTAL SALE FROM INFANTS = "<<infantSale;
 		cout<<"\n************************************\n";
 		
 		cout<<"TOTAL CHILD ATEENDEES = "<<child;
-		cout<<"\n \t CATEGORY CODE = 2";
-		cout<<"\n \t TOTAL SALE FROM CHILDS = "<<childSale;
+		cout<<"\n  CATEGORY CODE = 2";
+		cout<<"\n  TOTAL SALE FROM CHILDS = "<<childSale;
 		cout<<"\n************************************\n";
 		
 		cout<<"TOTAL TEENAGE ATEENDEES = "<<teenage;
-		cout<<"\n \t CATEGORY CODE = 3";
-		cout<<"\n \t TOTAL SALE FROM TEENAGES = "<<teenageSale;
+		cout<<"\n  CATEGORY CODE = 3";
+		cout<<"\n  TOTAL SALE FROM TEENAGES = "<<teenageSale;
 		cout<<"\n************************************\n";
 		
 		cout<<"TOTAL ADULT ATEENDEES = "<<adult;
-		cout<<"\n \t CATEGORY CODE = 4";
-		cout<<"\n \t TOTAL SALE FROM ADULTS = "<<adultSale;
+		cout<<"\n  CATEGORY CODE = 4";
+		cout<<"\n  TOTAL SALE FROM ADULTS = "<<adultSale;
 		cout<<"\n************************************\n";
 		
 		cout<<"TOTAL ATEENDEES = "<<totalAtendee;
