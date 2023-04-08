@@ -4,9 +4,9 @@ int main(){
 	int code, infant=0, child=0, teenage=0, adult=0;
 	int infantSale=0, childSale=0, teenageSale=0, adultSale=0;
 	int totalAtendee=0, totalSale=0;
-
+	
     retry:
-	cout<<"WELCOME. ENTER YOUR CODE : ";
+	cout<<"WELCOME, ENTER YOUR CODE : ";
 	cin>>code;
 	if(code>=1 && code<=4){
 		switch(code){
