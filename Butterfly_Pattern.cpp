@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-
+// This is a c++ program that prints out a butterfly pattern 
 int main() {
     int n, m;
     cout << "Enter a positive integer: ";
