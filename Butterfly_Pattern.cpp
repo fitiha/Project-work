@@ -7,7 +7,7 @@ int main() {
     cout << "Enter a positive integer: ";
     cin >> n;
     m = 2*n + 1; // number of columns
-
+    if(n>1){
     // Upper half of the pattern
     for (int i = 0; i <= n; i++) {
         for (int j = 0; j <= i; j++) {
@@ -47,5 +47,9 @@ int main() {
         }
         cout << endl;
     }
+ }
+ else{
+     cout<<endl;
+ }
     return 0;
 }
