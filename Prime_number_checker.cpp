@@ -32,7 +32,7 @@ if(prime==1){
 if(prime == 1){
 x = x+j;
 y = y+1;
-cout<<j<<" ";}}cout<<" the  prime numbers before "<< number;
+cout<<j<<" ";}}cout<<" the  prime numbers before "<< N;
 cout<<endl<<x/y<<" is their average";} //prints the average
 else {
     cout<<N<<" "<<"is not a prime number "<<endl;
