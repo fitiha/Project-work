@@ -8,6 +8,7 @@ Files incuded in this project
           2.1.  - program edited to include pointers also.(included in the branch)
   3. butteryfly pattern - program that draws certain pattern with numbers.
           3.1.  - program edited to include pointers also.(included in the branch)
+
 Dear Eleni Teshome,
 
 As we come to the end of our programming course, we wanted to take a moment to express our gratitude for your dedication, guidance, and patience throughout the semester. Your knowledge and expertise in programming have been invaluable in shaping our understanding of this complex subject. Your teaching style has made learning enjoyable and exciting, and we will always be grateful for the time and effort you have invested in our education.
