@@ -9,6 +9,10 @@ int main(){
 //declare return label to make it run till someone enters a negative numbers
     retry:
 	cout<<"WELCOME. ENTER YOUR CODE : ";
+        cout<<"P.S. 1 for infant"<<endl;
+        cout<<"\t 2 for child"<<endl;
+        cout<<"\t 3 for teenage"<<endl;
+        cout<<"\t 4 for adult"<<endl;
 //Make the variable "code" accept the inputs 1-4 and use the inputs to determine how much they pay
 	cin>>code;
 	if(code>=1 && code<=4){
@@ -56,26 +60,26 @@ code 4:Adult     entrance fee=20
 		totalSale = infantSale + childSale + teenageSale + adultSale;
 		cout<<"\n************************************\n";
 cout<<"\n  CATEGORY CODE = 1";
-		cout<<"\n  TOTAL SALE FROM INFANTS = "<<infantSale;
+		cout<<"\n  TOTAL SALE FROM INFANTS = "<<infantSale<<" birr";
 		cout<<"\n************************************\n";
 
 		cout<<"TOTAL CHILD ATEENDEES = "<<child;
 cout<<"\n  CATEGORY CODE = 2";
-		cout<<"\n  TOTAL SALE FROM CHILDS = "<<childSale;
+		cout<<"\n  TOTAL SALE FROM CHILDS = "<<childSale<<" birr";
 		cout<<"\n************************************\n";
 
 		cout<<"TOTAL TEENAGE ATEENDEES = "<<teenage;
 cout<<"\n  CATEGORY CODE = 3";
-		cout<<"\n  TOTAL SALE FROM TEENAGES = "<<teenageSale;
+		cout<<"\n  TOTAL SALE FROM TEENAGES = "<<teenageSale<<" birr";
 		cout<<"\n************************************\n";
 		cout<<"TOTAL ADULT ATEENDEES = "<<adult;
 cout<<"\n  CATEGORY CODE = 4";
-		cout<<"\n  TOTAL SALE FROM ADULTS = "<<adultSale;
+		cout<<"\n  TOTAL SALE FROM ADULTS = "<<adultSale<<" birr";
 		cout<<"\n************************************\n";
 
 //Out put the total number of attendees
 		cout<<"TOTAL ATEENDEES = "<<totalAtendee;
-		cout<<"\n \t TOTAL SALE = "<<totalSale;
+		cout<<"\n \t TOTAL SALE = "<<totalSale<<" birr";
 		cout<<"\n************************************\n";
 
 	}
