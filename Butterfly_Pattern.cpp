@@ -18,8 +18,7 @@ int main() {
         }
         int c=m-2*i;
         for (int j = 1; j < (c-1); j++) {
-
-                  cout <<" ";
+           cout <<" ";
         }
         for (int j = i; j >= 0; j--) {
             cout <<(i-j)%10; // print numbers in ascending order
