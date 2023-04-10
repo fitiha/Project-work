@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
 float x = 0;
-int remainder,k,N,prime=1,y=0;
+int remainder,k,N,prime=1,y=0; // int N holds memory for the input number
  
 Loop:
 cout<<"Enter any number: ";
