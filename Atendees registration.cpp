@@ -50,7 +50,7 @@ code 4:Adult     entrance fee=20
 				break;
 		}
 	}
-	 else if(code>4 || code===0){
+	 else if(code>4 || code==0){
                 cout<<"You have entered an invalid code. \nPlease try again.\n";
                 goto retry;
             }
