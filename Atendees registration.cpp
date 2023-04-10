@@ -8,7 +8,7 @@ int main(){
 	int totalAtendee=0, totalSale=0;
 //declare return label to make it run till someone enters a negative numbers
     retry:
-	cout<<"WELCOME. ENTER YOUR CODE : ";
+	cout<<"WELCOME. ENTER YOUR CODE : "<<endl;
         cout<<"P.S. 1 for infant"<<endl;
         cout<<"\t 2 for child"<<endl;
         cout<<"\t 3 for teenage"<<endl;
