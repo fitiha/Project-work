@@ -17,5 +17,6 @@ We are confident that your hard work and dedication will continue to inspire fut
 On behalf of our group, we want to express our sincere gratitude for everything you have done for us. Your guidance and support have been invaluable, and we are honored to have had you as our programming teacher.
 
 Sincerely,
+
 Group 7 members
           
