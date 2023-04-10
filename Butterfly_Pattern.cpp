@@ -35,12 +35,9 @@ int main() {
         }
         int d=m-2*i;
         for (int j = 0; j <(d-2) ; j++) {
-            if (j == i || j == m-i-1) {
-                cout << " ";
-            }
-            else {
-                cout << " "; // print spaces elsewhere
-            }
+            
+            cout << " "; // print spaces elsewhere
+            
         }
         for (int j = i; j >= 0; j--) {
             cout << (i-j)%10; // print numbers in ascending order
