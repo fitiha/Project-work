@@ -11,9 +11,7 @@ int main() {
     // Upper half of the pattern
     for (int i = 0; i <= n; i++) {
         for (int j = 0; j <= i; j++) {
-            if(j==n){
-                
-            }
+            if(j==n);
             else{
             cout <<(i-j)%10; // print numbers in descending order
             }
