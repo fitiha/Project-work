@@ -37,7 +37,7 @@ cout<<endl<<x/y<<" is their average";} //prints the average
 else {
     cout<<N<<" "<<"is not a prime number "<<endl;
           //finds the prime factors of the number
-          for(int k=2; k<=sqrt(N); k++){
+          for(int k=2; k<=N/2; k++){
                     prime=1;
              for( int i=2; i<=sqrt(k); i++){
                 if(k%i==0){
